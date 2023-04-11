@@ -1,0 +1,7 @@
+### 1. 테스트
+GET {{httpbin}}/get
+Content-Type: application/json
+
+{
+  "name": "test"
+}
